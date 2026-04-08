@@ -31,6 +31,13 @@ const projects = [
     link: "https://github.com/llangis",
     color: "#6366f1",
   },
+    {
+    title: "Recovery Connect",
+    tags: ["Java", "Spring Boot", "Thymeleaf"],
+    desc: "Fellowship recovery tracking platform supporting AA, NA, and CA programs. Browse and manage the 12 Steps, Traditions, Promises, and Readings with full CRUD, Spring Security auth, and clean onion architecture.",
+    link: "https://github.com/llangis",
+    color: "#3b82f6",
+  },
 ];
 
 function useInView(t = 0.15) {
