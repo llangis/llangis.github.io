@@ -28,14 +28,14 @@ const projects = [
     title: "Campus Bites",
     tags: ["ASP.NET Core", "MVC", "C#"],
     desc: "Full-stack campus food ordering platform. Built as Full-Stack Lead & Client Liaison in a two-person team. Features restaurant browsing, menu management, and order tracking.",
-    link: "https://github.com/llangis",
+    link: "https://github.com/llangis/Campus-bite-Recipe-App.git",
     color: "#6366f1",
   },
     {
     title: "Recovery Connect",
     tags: ["Java", "Spring Boot", "Thymeleaf"],
     desc: "Fellowship recovery tracking platform supporting AA, NA, and CA programs. Browse and manage the 12 Steps, Traditions, Promises, and Readings with full CRUD, Spring Security auth, and clean onion architecture.",
-    link: "https://github.com/llangis",
+    link: "https://github.com/llangis/Campus-bite-Recipe-App",
     color: "#3b82f6",
   },
 ];
