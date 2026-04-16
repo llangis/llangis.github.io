@@ -21,7 +21,7 @@ const projects = [
     title: "NHL Pick-a-Winner",
     tags: ["Node.js", "Socket.IO", "Express"],
     desc: "Real-time multiplayer prediction game where players compete to guess NHL game outcomes. Live score integration via SportsData.io API, dynamic team logos, and a live leaderboard.",
-    link: "https://github.com/llangis/nhl-pick-a-winner.git",
+    link: "https://github.com/llangis/nhl-pick-a-winner",
     color: "#10b981",
   },
   {
